@@ -1,5 +1,7 @@
 # Reference Android App demonstrating the use of [Automated License Plate Recognition library](http://www.openalpr.com/)
 
+# Reference Android App https://github.com/sujaybhowmick/OpenAlprDroidApp
+
 ## 2. Import OpenCV module
 Go to **File->New->Import module** and provide a path to **unpacked_OpenCV_package/sdk/java**, where unpacked_OpenCV_package is the directory where you have unpacked the previously downloaded the last openCV version. The name of module is set automatically as **openCVLibraryXXX**, where XXX is your openCV version.
 
